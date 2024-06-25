@@ -20,7 +20,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
 
 ### Diagrama UML (Mermaid)
-
+```mermaid
 classDiagram
     class ReprodutorMusical {
         +tocar():void
@@ -49,7 +49,7 @@ classDiagram
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
-
+```
 ## Aula Ministra por:
 
 - [Gleyson Sampaio](https://www.linkedin.com/in/glysns/) no Bootcamp Santander Back-End Java em parceria com a [DIO](https://www.dio.me/en)
