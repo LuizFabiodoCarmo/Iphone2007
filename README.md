@@ -41,7 +41,8 @@ classDiagram
     }
 
     class iPhone {
-        implements ReprodutorMusical,
+        implements
+        ReprodutorMusical,
         AparelhoTelefonico,    
         NavegadorWeb.
     }
